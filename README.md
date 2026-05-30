@@ -108,3 +108,4 @@ The project generates:
 * K-Means Clustering
 * Cluster Profiling
 * Data Visualization
+"# market-customer-segmentation" 
